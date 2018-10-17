@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fonte.spritefont</SourceFile>
+  <SourceTime>2015-12-09T17:22:36-02:00</SourceTime>
+  <DestFile>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/bin/Windows/fonte.xnb</DestFile>
+  <DestTime>2018-10-17T17:55:16.3077403-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

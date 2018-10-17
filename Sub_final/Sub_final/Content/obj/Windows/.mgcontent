@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_botao_jogar.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_botao_sair.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_estrela.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_explosao.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_fundo.jpg</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_moeda.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_perdeu.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_raio.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_subazul.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_subazul2.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_subverde.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_subvermelho.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_surpresa.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_torpedo.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_venceu.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fig_vida.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/fonte.spritefont</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/mina.png</File>
+    <File>D:/Google Drive/Estudos/Unisociesc/Programação para jogos/Projetos/Sub_final/Sub_final/Content/mus_sonar.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
